@@ -33,3 +33,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzanahmad11&show_icons=true&locale=en&layout=compact" alt="fauzanahmad11" />
 </p>
 
+##
+
+>build with <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Generator</a>
+
