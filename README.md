@@ -25,11 +25,14 @@
 ## :trophy: My Github Stats
 
 <p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=fauzanahmad11&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanahmad11)
+  
+  ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=fauzanahmad11&show_icons=true&locale=en&layout=compact)
+  
+  ![Contribute](https://github-readme-stats.vercel.app/api?username=fauzanahmad11&show_icons=true&locale=en)
+  
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanahmad11&" alt="fauzanahmad11" /></p>
+
 
 ##
 
