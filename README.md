@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/fauzan-ahmad-b08b20201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fauzan-ahmad-b08b20201" height="30" width="40" /></a>
 <a href="https://instagram.com/_fauzanahmad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fauzanahmad_" height="30" width="40" /></a>
 <a href="https://dribbble.com/fauzanahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="fauzanahmad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uceeosrkwzkslxs2_1eb-qva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceeosrkwzkslxs2_1eb-qva" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCeEOsRKWZkSlXs2_1Eb-QvA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceeosrkwzkslxs2_1eb-qva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">:briefcase: Languages and Tools:</h3>
