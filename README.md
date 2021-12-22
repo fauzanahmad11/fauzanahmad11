@@ -25,8 +25,10 @@
 ## :trophy: My Github Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fauzanahmad11&show_icons=true&locale=en&layout=compact" alt="fauzanahmad11" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzanahmad11&show_icons=true&locale=en&layout=compact" alt="fauzanahmad11" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=fauzanahmad11&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanahmad11)
 </p>
 
 ##
